@@ -14,6 +14,6 @@ and the extensions
 - lattice_normalization, https://github.com/apaffenholz/lattice_normalization
  
 
-
+The image is avaiable at https://hub.docker.com/r/apaffenholz/polymake/
 
 
